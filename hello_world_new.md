@@ -4,3 +4,8 @@ First change.
 
 *Italic*
 
+**Semi-bold.**
+
+***Bold-italic***
+
+****Bold****
