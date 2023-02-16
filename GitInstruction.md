@@ -74,6 +74,14 @@ git branch -d <имя удаляемой ветки>
 git checkout <имя ветки>
 ```
 
+## 10. Запись в удаленный репозиторий
+Для записи данных в удаленный репозиторий используются такие команды:
+```
+git remote add origin <URL уделанного репозитория>
+git branch -M master
+git push -u origin master
+```
+
 
 
 
